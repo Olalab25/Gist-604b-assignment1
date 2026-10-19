@@ -30,43 +30,42 @@ It is native on Windows, macOS and Linux, and in your web browser. Also, data st
 
 ## Repository 2
 
-**Repository Name:**  
-**Link:**  
+**QGIS:**  
+**https://github.com/qgis/QGIS:**  
 
 ### Purpose
-What does this project do?
+QGIS is a full-featured, user-friendly, free-and-open-source (FOSS) geographical information system (GIS) that runs on Unix platforms, Windows, and MacOS.
 
 ### Repository Structure
-What folders or files stand out?
+Python and Resources folders
 
 ### Documentation
-How helpful is the README?
+Very deatiled and helpful
 
 ### Activity
-Is the repository actively maintained?
+Yes
 
 ### Key Observation
-One thing this project does well.
+Fully customizable user experience, including user interface and application settings that cater to power-users and beginners alike.
 
 ## Repository 3
-
-**Repository Name:**  
-**Link:**  
+**awesome-gis :**  
+**https://github.com/sshuair/awesome-gis:**  
 
 ### Purpose
-What does this project do?
+Awesome GIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some amazing map sites, and more.
 
 ### Repository Structure
-What folders or files stand out?
+README file
 
 ### Documentation
-How helpful is the README?
+It documented every steps of the development and source information
 
 ### Activity
-Is the repository actively maintained?
+No. Last commits was 3 months ago
 
 ### Key Observation
-One thing this project does well.
+README was detailed
 
 ## Repository 4
 
@@ -91,5 +90,4 @@ Data organization
 ---
 
 ## Reflection
-
-In 3–5 sentences, explain what you learned about how open source projects are organized.
+Open‑source projects are organized around maintainers, community contributors, and clear workflows that guide how code changes and commited.
